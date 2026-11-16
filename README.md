@@ -1,26 +1,32 @@
+
 # 👨‍💻 Hey, I'm David
 
-I spend most of my time in the terminal breaking things, fixing them, and figuring out how to keep Linux systems secure.
+I spend most of my time in the terminal exploring Linux, understanding system vulnerabilities, and learning how to secure digital environments.
 
-Self-taught in **cybersecurity** and **Linux administration**, running **Arch Linux** as my daily driver, and building practical tools to automate security tasks.
+Self-taught in **cybersecurity** and **Linux administration**, using **Arch Linux** as my daily driver and building practical projects to develop my technical skills.
 
-## 💻 System & Focus
+## 🖥️ System & Focus
 
 ```bash
 OS:         Arch Linux (Daily Driver)
 Shell:      Bash Scripting & Automation
-Focus:      System Hardening, Network Security, SOC/SIEM
+Focus:      Linux Security, System Auditing, Hardening
+Learning:   Network Security, SOC/SIEM
 Labs:       TryHackMe, OverTheWire, Home Labs
 ```
 
-## 🛠️ Featured Project
+## 🛡️ Featured Project
 
-- **[LinuxGuard](https://github.com/DSRCyberS/LinuxGuard)** — A lightweight Linux security auditing tool written in Bash.
+- **[LinuxGuard](https://github.com/DSRCyberS/LinuxGuard)** — A lightweight Bash security auditing tool designed to inspect critical Linux system permissions.
 
-## ⚡ Core Stack
+## ⚙️ Technical Stack
 
-`Linux` • `Arch Linux` • `Bash Scripting` • `Git` • `Network Security` • `Server Hardening`
+`Linux` • `Arch Linux` • `Bash` • `Git` • `Networking` • `System Security`
 
 ## 🤝 Connect
 
 - **LinkedIn:** [david-rodrigues-sec](https://www.linkedin.com/in/david-rodrigues-sec/)
+
+---
+
+<sub>Cybersecurity • Linux Administration • Continuous Learning</sub>
