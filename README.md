@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm David Rodrigues 👋
 
-<!--
-**DSRCyberS/DSRCyberS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught **cybersecurity** and **Linux** enthusiast focused on understanding how systems work under the hood and learning how to secure them. Currently running **Arch Linux** as my daily driver and building practical security tools.
 
-Here are some ideas to get you started:
+- 🐧 **Environment:** Arch Linux, Bash Scripting
+- 🛡️ **Focus Areas:** Linux Administration, Server Hardening, SOC/SIEM, Network Security
+- 🧪 **Labs & Practice:** TryHackMe, OverTheWire
+- 🚀 **Featured Project:** [LinuxGuard](https://github.com) — Linux Security Audit Tool written in Bash
+- 📫 **Connect with me:** [LinkedIn](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+![Linux](https://shields.io)
+![Arch Linux](https://shields.io)
+![Bash Script](https://shields.io)
+![Git](https://shields.io)
