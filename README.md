@@ -7,13 +7,10 @@ Self-taught in **cybersecurity** and **Linux administration**, running **Arch Li
 - 💻 **Daily Setup:** Arch Linux, Bash, Git
 - 🔐 **What I'm into:** System Hardening, Network Security, SOC/SIEM & Threat Detection
 - 🚩 **Hands-on Practice:** TryHackMe, OverTheWire, and personal home labs
-- 🛠️ **Currently Building:** [LinuxGuard]([https://github.com](https://github.com/DSRCyberS/LinuxGuard)) — A lightweight Linux security auditing tool in Bash
+- 🛠️ **Currently Building:** [LinuxGuard](https://github.com/DSRCyberS/LinuxGuard) — A lightweight Linux security auditing tool in Bash
 - 🤝 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/david-rodrigues-sec/)
 
 ---
 
 #### ⚡ Core Stack
-![Linux](https://shields.io)
-![Arch Linux](https://shields.io)
-![Bash](https://shields.io)
-![Git](https://shields.io)
+`Linux` • `Arch Linux` • `Bash Scripting` • `Git` • `Network Security` • `Server Hardening`
