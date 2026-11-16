@@ -1,15 +1,19 @@
-### Hi there, I'm David Rodrigues 👋
+### Hey, I'm David 👋
 
-I'm a self-taught **cybersecurity** and **Linux** enthusiast focused on understanding how systems work under the hood and learning how to secure them. Currently running **Arch Linux** as my daily driver and building practical security tools.
+I spend most of my time in the terminal breaking things, fixing them, and figuring out how to keep Linux systems secure. 
 
-- 🐧 **Environment:** Arch Linux, Bash Scripting
-- 🛡️ **Focus Areas:** Linux Administration, Server Hardening, SOC/SIEM, Network Security
-- 🧪 **Labs & Practice:** TryHackMe, OverTheWire
-- 🚀 **Featured Project:** [LinuxGuard](https://github.com) — Linux Security Audit Tool written in Bash
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com)
+Self-taught in **cybersecurity** and **Linux administration**, running **Arch Linux** as my daily driver, and building practical tools to automate security tasks.
 
-#### 🛠️ Tech Stack & Tools
+- 💻 **Daily Setup:** Arch Linux, Bash, Git
+- 🔐 **What I'm into:** System Hardening, Network Security, SOC/SIEM & Threat Detection
+- 🚩 **Hands-on Practice:** TryHackMe, OverTheWire, and personal home labs
+- 🛠️ **Currently Building:** [LinuxGuard](https://github.com) — A lightweight Linux security auditing tool in Bash
+- 🤝 **Let's connect:** [LinkedIn](https://linkedin.com)
+
+---
+
+#### ⚡ Core Stack
 ![Linux](https://shields.io)
 ![Arch Linux](https://shields.io)
-![Bash Script](https://shields.io)
+![Bash](https://shields.io)
 ![Git](https://shields.io)
